@@ -38,7 +38,7 @@
 
 | 공격·방어·피격 | 원거리 패턴 대응 |
 |:---:|:---:|
-|  |  |
+| <img width="426" height="240" alt="Video Project 70" src="https://github.com/user-attachments/assets/e63ed231-70dd-45b1-840d-f52ed0faa6d6" /> | <img width="426" height="240" alt="Video Project 63 (2)" src="https://github.com/user-attachments/assets/abfc7ed8-e3ee-4c99-b1f8-8d6c2a24c612" /> |
 
 
 ### 2.2 NavMesh 데이터 로딩과 이동 가능 영역 검사
@@ -83,7 +83,7 @@ Compute Shader에서 파티클을 생성하고 위치·수명을 갱신했습니
 
 | 탑뷰 시점 | 격투게임 시점 | 카메라 애니메이션 |
 |:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/66479b80-4126-4089-a9a8-047c633da190" width="260"> | <img src="https://github.com/user-attachments/assets/0b0db5ca-a2b3-4540-9c0c-d8066cc82c1e" width="260"> |  |
+| <img src="https://github.com/user-attachments/assets/66479b80-4126-4089-a9a8-047c633da190" width="260"> | <img src="https://github.com/user-attachments/assets/0b0db5ca-a2b3-4540-9c0c-d8066cc82c1e" width="260"> | <img width="426" height="240" alt="Video Project 63" src="https://github.com/user-attachments/assets/56a4c629-1a63-40cb-a04f-62247dffbe8a" /> |
 
-<img width="426" height="240" alt="Video Project 63" src="https://github.com/user-attachments/assets/56a4c629-1a63-40cb-a04f-62247dffbe8a" />
+
 
