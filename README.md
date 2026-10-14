@@ -1,4 +1,4 @@
-# Furi - DirectX 11 C++프로젝트
+# Furi - DirectX 11 C++ 프로젝트
 
 > C++과 DirectX 11을 사용해 Furi의 보스 전투를 재현한 모작 프로젝트입니다.  
 > 콤보·차지·패링 등의 전투 기능과 함께, 이동 가능 영역 검사와 파티클·화면 효과를 구현했습니다.
@@ -36,7 +36,7 @@
 
 보스는 페이즈에 따라 공격 패턴을 추가·변경했습니다.
 
-| 공격·방어·피격 | 원거리 패턴 대응 |
+| 방어·피격·공격 | 원거리 패턴 대응 |
 |:---:|:---:|
 | <img width="426" height="240" alt="Video Project 70" src="https://github.com/user-attachments/assets/e63ed231-70dd-45b1-840d-f52ed0faa6d6" /> | <img width="426" height="240" alt="Video Project 63 (2)" src="https://github.com/user-attachments/assets/abfc7ed8-e3ee-4c99-b1f8-8d6c2a24c612" /> |
 
@@ -81,9 +81,12 @@ Compute Shader에서 파티클을 생성하고 위치·수명을 갱신했습니
 
 잡기·차지 공격 등의 연출에서는 원본 게임의 카메라 애니메이션 데이터를 불러와 재생하고, 연출이 끝나면 기존 전투 시점으로 복귀하도록 했습니다.
 
-| 탑뷰 시점 | 격투게임 시점 | 카메라 애니메이션 |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/66479b80-4126-4089-a9a8-047c633da190" width="260"> | <img src="https://github.com/user-attachments/assets/0b0db5ca-a2b3-4540-9c0c-d8066cc82c1e" width="260"> | <img width="426" height="240" alt="Video Project 63" src="https://github.com/user-attachments/assets/56a4c629-1a63-40cb-a04f-62247dffbe8a" /> |
+| 탑뷰 시점 | 격투게임 시점 |
+|:---:|:---:|
+| <img width="426" height="240" alt="퓨리포폴영상 mp4_20261014_232018 403" src="https://github.com/user-attachments/assets/c712dc9d-74eb-4d7a-ae1e-018d3243ea74" /> | <img width="426" height="240" alt="퓨리포폴영상 mp4_20261014_232037 648" src="https://github.com/user-attachments/assets/6577b0bc-95a3-456a-bed3-91159b6d970f" /> |
 
+| 카메라 애니메이션 |
+|:---:|
+| <img width="426" height="240" alt="Video Project 63" src="https://github.com/user-attachments/assets/56a4c629-1a63-40cb-a04f-62247dffbe8a" /> |
 
 
